@@ -1,0 +1,5 @@
+{
+  "name": "MedReport Explainer",
+  "description": "An AI-powered tool to analyze medical lab report images. It extracts relevant values based on a user's query, researches them, and provides a simple, patient-friendly explanation.",
+  "requestFramePermissions": []
+}
